@@ -11,6 +11,8 @@ packages:
 - tensorflow-mnist-input-data
 - tensorflow-queue
 - tensorflow-nn
+- tensorflow-records
+- tensorflow-records-conduit
 - tensorflow-test
 
 extra-deps:
